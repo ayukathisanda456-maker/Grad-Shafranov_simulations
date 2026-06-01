@@ -85,6 +85,12 @@ plt.ylabel(r' $\Delta$R/m')
 plt.title(r'$\Delta$R as function of Poloidal beta/ $\beta $')
 plt.show()
 
+#Line 12 to 39, the code, including constants and input values taken from the following documentation
+#https://freegs.readthedocs.io/en/latest/Example_code_docs.html#fixed-boundary-problem
+#Date accessed - 29.05.2026
+
+
+
 
 
 
